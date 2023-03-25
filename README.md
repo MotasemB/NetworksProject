@@ -1,6 +1,6 @@
 # Networks Project (CPCS-371)
 This is the final project for the Networks course, this project utilizes Javas net and io libraries to communicate between two files. 
-- `java.net.Socket` is used to create an endpoint for communicating between the two files. 
+- `java.net.Socket` is used to create an endpoint to communicate between the two files. 
 - `java.net.ServerSocket` creates a server socket that waits for requests to come through the network. __You will need to give Java access to your firewall for this to work.__
 - `java.io.DataInputStream` and `java.io.DataOutputStream` are used for communicating between the two files.
 ## Problem Statement
